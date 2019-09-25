@@ -57,7 +57,6 @@ namespace C
                      b++;
                  }
              }
-             Console.WriteLine(max);
              return masyvai;
         }
     }
